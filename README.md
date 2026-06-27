@@ -58,11 +58,12 @@ The software interfaces with a $25 hardware prototype built during the hackathon
 ## Screenshots
 
 <img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/c588de76-00c0-4159-8ccb-2cf8583b1886" />
+<img width="671" height="409" alt="image" src="https://github.com/user-attachments/assets/758c1b49-ced4-431f-8f5b-a02e0f7a97aa" />
 > <img width="664" height="342" alt="image" src="https://github.com/user-attachments/assets/92c0a379-7133-40f7-9574-639b1a1898db" />
 <img width="664" height="342" alt="image" src="https://github.com/user-attachments/assets/97a4c46e-ab21-4b7a-a774-7a4977577718" />
 <img width="654" height="370" alt="image" src="https://github.com/user-attachments/assets/8d825a27-0833-4c48-80d8-2f0d83053806" />
 <img width="671" height="409" alt="image" src="https://github.com/user-attachments/assets/d73cc5d0-1da2-47b8-92e7-59564dc0b700" />
-<img width="671" height="409" alt="image" src="https://github.com/user-attachments/assets/758c1b49-ced4-431f-8f5b-a02e0f7a97aa" />
+
 
 
 
