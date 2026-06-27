@@ -1,0 +1,7 @@
+{
+  "name": "Remix: NAVI - Signal-to-Health",
+  "description": "Molecular-level lead detection and public health surveillance platform using electrochemical signal processing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
